@@ -1,7 +1,5 @@
-### OWASP Banja Luka Chapter Information
+<!-- ### OWASP Banja Luka Chapter Information
 * Provide Group Information
 
 ### Social Links
-* [Meetup](#)
-
-
+* [Meetup](#) -->
