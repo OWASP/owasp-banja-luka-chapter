@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Banja Luka Chapter
-tags: example-tag
+tags: Banja Luka
 region: Europe
 country: Bosnia & Herzegovina
 meetup-group:
